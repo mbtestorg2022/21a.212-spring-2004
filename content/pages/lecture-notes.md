@@ -4,31 +4,252 @@ title: Lecture Notes
 uid: 55529c4b-69d0-06c7-d69b-ac13b3e7ac5a
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction ([PDF]({{< baseurl >}}/resources/introduction)) |
-| 2 | Culture, Sign and Symbol ([PDF]({{< baseurl >}}/resources/symbolculture)) |
-| 3 | Discuss _Illness as Metaphor_ ([PDF]({{< baseurl >}}/resources/illnessmetaphor)) |
-| 4 | Metaphor and Other Tropes ([PDF]({{< baseurl >}}/resources/metaphortropes)) |
-| 5 | More Tropes ([PDF]({{< baseurl >}}/resources/moretropes)) |
-| 6 | Interpreting Metaphor ([PDF]({{< baseurl >}}/resources/intmetaphor)) |
-| 7 | Metaphorical Imperialism ([PDF]({{< baseurl >}}/resources/imperialism)) |
-| 8 | Animals ([PDF]({{< baseurl >}}/resources/animals)) |
-| 9 | Animals and Classification ([PDF]({{< baseurl >}}/resources/animals)) |
-| 10 | Roosters and Interpretation ([PDF]({{< baseurl >}}/resources/animals)) |
-| 11 | The Human Body ([PDF]({{< baseurl >}}/resources/humanbody)) |
-| 12 | More Bodies ([PDF]({{< baseurl >}}/resources/humanbody)) |
-| 13 | Classification and Cosmology ([PDF]({{< baseurl >}}/resources/cosmology)) |
-| 14 | Ritual ([PDF]({{< baseurl >}}/resources/ritiual)) |
-| 15 | Passage and Persuasion ([PDF]({{< baseurl >}}/resources/persuasion)) |
-| 16 | Ritual and Power ([PDF]({{< baseurl >}}/resources/16ritiualpower)) |
-| 17 | Magic and Ritual Curing ([PDF]({{< baseurl >}}/resources/17magicritualcu)) |
-| 18 | Narrative and Life ([PDF]({{< baseurl >}}/resources/18narrativelife)) |
-| 19 | Narrative and Control ([PDF]({{< baseurl >}}/resources/18narrativelife)) |
-| 20 | Folktale and Form ([PDF]({{< baseurl >}}/resources/18narrativelife)) |
-| 21 | Little Red Riding Hood and the Freudian Wolf ([PDF]({{< baseurl >}}/resources/21litleredriding)) |
-| 22 | Goldilocks Meets Oedipus ([PDF]({{< baseurl >}}/resources/22goldlkmetoedps)) |
-| 23 | Hyenas and Demon Brides ([PDF]({{< baseurl >}}/resources/23hyenasdemonbr)) |
-| 24 | Jaguars, Vampires, and Starlets ([PDF]({{< baseurl >}}/resources/24jgrstrltvmpire)) |
-| 25 | Movies on Myth |
-| 26 | Wrap up
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction ([PDF]({{< baseurl >}}/resources/introduction))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Culture, Sign and Symbol ([PDF]({{< baseurl >}}/resources/symbolculture))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss _Illness as Metaphor_ ([PDF]({{< baseurl >}}/resources/illnessmetaphor))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Metaphor and Other Tropes ([PDF]({{< baseurl >}}/resources/metaphortropes))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+More Tropes ([PDF]({{< baseurl >}}/resources/moretropes))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Interpreting Metaphor ([PDF]({{< baseurl >}}/resources/intmetaphor))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Metaphorical Imperialism ([PDF]({{< baseurl >}}/resources/imperialism))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Animals ([PDF]({{< baseurl >}}/resources/animals))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Animals and Classification ([PDF]({{< baseurl >}}/resources/animals))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Roosters and Interpretation ([PDF]({{< baseurl >}}/resources/animals))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Human Body ([PDF]({{< baseurl >}}/resources/humanbody))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+More Bodies ([PDF]({{< baseurl >}}/resources/humanbody))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Classification and Cosmology ([PDF]({{< baseurl >}}/resources/cosmology))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Ritual ([PDF]({{< baseurl >}}/resources/ritiual))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Passage and Persuasion ([PDF]({{< baseurl >}}/resources/persuasion))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Ritual and Power ([PDF]({{< baseurl >}}/resources/16ritiualpower))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Magic and Ritual Curing ([PDF]({{< baseurl >}}/resources/17magicritualcu))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Narrative and Life ([PDF]({{< baseurl >}}/resources/18narrativelife))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Narrative and Control ([PDF]({{< baseurl >}}/resources/18narrativelife))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Folktale and Form ([PDF]({{< baseurl >}}/resources/18narrativelife))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Little Red Riding Hood and the Freudian Wolf ([PDF]({{< baseurl >}}/resources/21litleredriding))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Goldilocks Meets Oedipus ([PDF]({{< baseurl >}}/resources/22goldlkmetoedps))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Hyenas and Demon Brides ([PDF]({{< baseurl >}}/resources/23hyenasdemonbr))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Jaguars, Vampires, and Starlets ([PDF]({{< baseurl >}}/resources/24jgrstrltvmpire))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Movies on Myth
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap up
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
